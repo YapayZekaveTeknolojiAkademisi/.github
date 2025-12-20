@@ -1,1 +1,1 @@
-<img width="3780" height="1890" alt="Siyah Ciddi Motivasyon Sözü Banner" src="https://github.com/user-attachments/assets/4e74875c-13b3-43ad-97ff-2741e87eac02" />
+<img width="1584" height="396" alt="Adsız tasarım" src="https://github.com/user-attachments/assets/c7fdc8c5-6bca-4b00-98f2-5295e7f32dbb" />
