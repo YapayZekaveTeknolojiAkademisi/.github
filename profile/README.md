@@ -1,4 +1,4 @@
-<img width="4950" height="1238" alt="Adsız tasarım" src="https://github.com/user-attachments/assets/25dbe9a3-2b9a-4cbc-8f8e-e3ba805f2f94" />
+<img width="4950" height="1238" alt="LinkedIn Banner Design" src="https://github.com/user-attachments/assets/93965906-4bec-427a-bb2e-a39ac2c213c8" />
 
 # Bu Organizasyon Nedir?
 Yapay Zeka ve Teknoloji Akademisi GitHub organizasyonu, akademi bünyesinde geliştirilen yapay zeka, veri, yazılım ve otomasyon odaklı projelerin açık ve sürdürülebilir şekilde geliştirildiği teknik bir çalışma alanıdır. Bu alan; eğitim sürecinde üretilen kodları, deneysel çalışmaları ve üretim kalitesine yakın referans projeleri bir araya getirir.
